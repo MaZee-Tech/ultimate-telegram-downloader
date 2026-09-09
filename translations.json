@@ -1,0 +1,1602 @@
+{
+    "en": {
+        "languageLabel": "Language",
+        "installExtension": "Install Extension",
+        "badge": "🚀 Quick Start Guide",
+        "heroTitle": "Download Private Telegram media with ease",
+        "heroDescription": "Follow these simple steps to use Ultimate Telegram Media Downloader to download photos, videos, files, voice messages and more from Private and Public Telegram groups and channels on Web K",
+        "getStarted": "Get Started",
+        "exploreFeatures": "Explore Features",
+        "howItWorks": "HOW IT WORKS",
+        "stepsTitle": "Get started in a few simple steps",
+        "stepsDescription": "Follow the numbered instructions and the markings in each screenshot.",
+        "featuresEyebrow": "FEATURES",
+        "featuresTitle": "Everything you need to download Telegram media",
+        "helpEyebrow": "NEED HELP?",
+        "helpTitle": "Something not working?",
+        "helpDescription": "Check the FAQ or contact support and we'll help you get things working.",
+        "faq": "FAQ",
+        "contactSupport": "Contact Support",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "Privacy Policy",
+        "support": "Support",
+        "meta": "Learn how to use Ultimate Telegram Media Downloader to download photos, videos, files and more from Telegram Web.",
+        "title": "Ultimate Telegram Media Downloader - How to Use",
+        "steps": [
+            [
+                "Visit Telegram Web",
+                "Open Telegram Web at web.telegram.org/k/ and sign in to your Telegram account.",
+                "images/1.png",
+                "Step 1: Visit Telegram Web"
+            ],
+            [
+                "Pin the extension",
+                "Click the Extensions icon in Chrome, find Ultimate Telegram Media Downloader, and click the pin icon so it is easy to access.",
+                "images/2.png",
+                "Step 2: Pin the extension"
+            ],
+            [
+                "Open a channel",
+                "Open any private or public Telegram channel containing the media you want to download.",
+                "images/3.png",
+                "Step 3: Open a private or public channel"
+            ],
+            [
+                "Open the downloader",
+                "Click the Ultimate Telegram Downloader button in the Telegram Web toolbar to open the downloader.",
+                "images/4.png",
+                "Step 4: Open the downloader"
+            ],
+            [
+                "Choose what to scan",
+                "In the Scanner tab, click the media-type dropdown to choose what you want to find.",
+                "images/5.png",
+                "Step 5: Select what to download"
+            ],
+            [
+                "Choose a media type",
+                "Select an option from the dropdown. Media includes photos and videos, while Files and Stories are available as separate options.",
+                "images/6.png",
+                "Step 6: Choose a media type"
+            ],
+            [
+                "Start the scan",
+                "Click Scan for files to start finding the selected items in the channel.",
+                "images/7.png",
+                "Step 7: Start scanning"
+            ],
+            [
+                "Start your free trial",
+                "Before downloading, you need to register and start the free trial. The trial shown here allows up to 10 downloads for 1 day.",
+                "images/8.png",
+                "Step 8: Start the free trial"
+            ],
+            [
+                "Open account access",
+                "Click the user icon at the top of the downloader to open the account access screen.",
+                "images/9.png",
+                "Step 9: Click the user icon"
+            ],
+            [
+                "Click Start free trial",
+                "On the Account access screen, click Start free trial to begin registration.",
+                "images/10.png",
+                "Step 10: Start the free trial"
+            ],
+            [
+                "Enter your email",
+                "Enter an email address that you can access, then click Start trial.",
+                "images/11.png",
+                "Step 11: Enter your email and start the trial"
+            ],
+            [
+                "Check your inbox",
+                "A confirmation email will be sent to the email address you entered. Open your email inbox and look for it.",
+                "images/12.png",
+                "Step 12: Check your email inbox"
+            ],
+            [
+                "Open the confirmation email",
+                "Find the trial confirmation email from Extension Trial and open it.",
+                "images/13.png",
+                "Step 13: Open the confirmation email"
+            ],
+            [
+                "Confirm your email",
+                "Click the Confirm email button in the message to activate your free trial.",
+                "images/14.png",
+                "Step 14: Confirm your email"
+            ],
+            [
+                "Trial confirmed",
+                "Once the confirmation page says your free trial is active, you are ready to continue.",
+                "images/15.png",
+                "Step 15: Free trial confirmed"
+            ],
+            [
+                "Return to the downloader",
+                "Go back to the Telegram Web tab. Your account is now created and your trial is active.",
+                "images/16.png",
+                "Step 16: Return to Telegram Web"
+            ],
+            [
+                "Select files and download",
+                "Select the files you want to save, then click the Download button to start downloading them.",
+                "images/17.png",
+                "Step 17: Select files and start downloading"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "Bulk downloads",
+                "Download multiple Telegram media files at once."
+            ],
+            [
+                "⏸️",
+                "Pause & resume",
+                "Pause active downloads and continue them later."
+            ],
+            [
+                "📁",
+                "Organize by month",
+                "Keep downloaded media organized in monthly folders."
+            ],
+            [
+                "🎥",
+                "Multiple media types",
+                "Download videos, photos, files, audio and voice messages."
+            ],
+            [
+                "📊",
+                "Progress tracking",
+                "See the progress of your downloads as they happen."
+            ],
+            [
+                "🔄",
+                "Retry failed downloads",
+                "Quickly retry individual downloads that encounter an error."
+            ]
+        ]
+    },
+    "fr": {
+        "languageLabel": "Langue",
+        "installExtension": "Installer l’extension",
+        "badge": "🚀 Guide de démarrage rapide",
+        "heroTitle": "Téléchargez facilement des médias privés depuis Telegram",
+        "heroDescription": "Suivez ces étapes simples pour utiliser Ultimate Telegram Media Downloader afin de télécharger des photos, vidéos, fichiers, messages vocaux et plus encore depuis des groupes et chaînes Telegram privés et publics sur Telegram Web K",
+        "getStarted": "Commencer",
+        "exploreFeatures": "Découvrir les fonctionnalités",
+        "howItWorks": "COMMENT ÇA MARCHE",
+        "stepsTitle": "Commencez en quelques étapes simples",
+        "stepsDescription": "Suivez les instructions numérotées et les indications présentes sur chaque capture d’écran.",
+        "featuresEyebrow": "FONCTIONNALITÉS",
+        "featuresTitle": "Tout ce dont vous avez besoin pour télécharger des médias Telegram",
+        "helpEyebrow": "BESOIN D’AIDE ?",
+        "helpTitle": "Quelque chose ne fonctionne pas ?",
+        "helpDescription": "Consultez la FAQ ou contactez le support et nous vous aiderons à résoudre le problème.",
+        "faq": "FAQ",
+        "contactSupport": "Contacter le support",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "Politique de confidentialité",
+        "support": "Support",
+        "meta": "Découvrez comment utiliser Ultimate Telegram Media Downloader pour télécharger des photos, vidéos, fichiers et bien plus encore depuis Telegram Web.",
+        "title": "Ultimate Telegram Media Downloader - Mode d’emploi",
+        "steps": [
+            [
+                "Visitez Telegram Web",
+                "Ouvrez Telegram Web à l’adresse web.telegram.org/k/ et connectez-vous à votre compte Telegram.",
+                "images/1.png",
+                "Étape 1 : Visitez Telegram Web"
+            ],
+            [
+                "Épinglez l’extension",
+                "Cliquez sur l’icône Extensions dans Chrome, recherchez Ultimate Telegram Media Downloader et cliquez sur l’icône en forme d’épingle pour y accéder facilement.",
+                "images/2.png",
+                "Étape 2 : Épinglez l’extension"
+            ],
+            [
+                "Ouvrez une chaîne",
+                "Ouvrez une chaîne Telegram privée ou publique contenant les médias que vous souhaitez télécharger.",
+                "images/3.png",
+                "Étape 3 : Ouvrez une chaîne privée ou publique"
+            ],
+            [
+                "Ouvrez le téléchargeur",
+                "Cliquez sur le bouton Ultimate Telegram Downloader dans la barre d’outils de Telegram Web pour ouvrir le téléchargeur.",
+                "images/4.png",
+                "Étape 4 : Ouvrez le téléchargeur"
+            ],
+            [
+                "Choisissez ce que vous souhaitez analyser",
+                "Dans l’onglet Scanner, cliquez sur le menu déroulant des types de médias pour choisir ce que vous souhaitez rechercher.",
+                "images/5.png",
+                "Étape 5 : Sélectionnez ce que vous souhaitez télécharger"
+            ],
+            [
+                "Choisissez un type de média",
+                "Sélectionnez une option dans le menu déroulant. Les médias comprennent les photos et vidéos, tandis que les fichiers et les stories sont disponibles comme options distinctes.",
+                "images/6.png",
+                "Étape 6 : Choisissez un type de média"
+            ],
+            [
+                "Lancez l’analyse",
+                "Cliquez sur Scan for files pour commencer à rechercher les éléments sélectionnés dans la chaîne.",
+                "images/7.png",
+                "Étape 7 : Lancez l’analyse"
+            ],
+            [
+                "Commencez votre essai gratuit",
+                "Avant de télécharger, vous devez vous inscrire et commencer l’essai gratuit. L’essai présenté ici permet jusqu’à 10 téléchargements pendant 1 jour.",
+                "images/8.png",
+                "Étape 8 : Commencez l’essai gratuit"
+            ],
+            [
+                "Ouvrez l’accès au compte",
+                "Cliquez sur l’icône utilisateur en haut du téléchargeur pour ouvrir l’écran d’accès au compte.",
+                "images/9.png",
+                "Étape 9 : Cliquez sur l’icône utilisateur"
+            ],
+            [
+                "Cliquez sur Start free trial",
+                "Sur l’écran Account access, cliquez sur Start free trial pour commencer l’inscription.",
+                "images/10.png",
+                "Étape 10 : Commencez l’essai gratuit"
+            ],
+            [
+                "Saisissez votre adresse e-mail",
+                "Saisissez une adresse e-mail à laquelle vous avez accès, puis cliquez sur Start trial.",
+                "images/11.png",
+                "Étape 11 : Saisissez votre e-mail et commencez l’essai"
+            ],
+            [
+                "Consultez votre boîte de réception",
+                "Un e-mail de confirmation sera envoyé à l’adresse e-mail que vous avez indiquée. Ouvrez votre boîte de réception et recherchez-le.",
+                "images/12.png",
+                "Étape 12 : Consultez votre boîte de réception"
+            ],
+            [
+                "Ouvrez l’e-mail de confirmation",
+                "Recherchez l’e-mail de confirmation de l’essai envoyé par Extension Trial et ouvrez-le.",
+                "images/13.png",
+                "Étape 13 : Ouvrez l’e-mail de confirmation"
+            ],
+            [
+                "Confirmez votre adresse e-mail",
+                "Cliquez sur le bouton Confirm email dans le message pour activer votre essai gratuit.",
+                "images/14.png",
+                "Étape 14 : Confirmez votre adresse e-mail"
+            ],
+            [
+                "Essai confirmé",
+                "Lorsque la page de confirmation indique que votre essai gratuit est actif, vous pouvez continuer.",
+                "images/15.png",
+                "Étape 15 : Essai gratuit confirmé"
+            ],
+            [
+                "Retournez au téléchargeur",
+                "Revenez à l’onglet Telegram Web. Votre compte est maintenant créé et votre essai est actif.",
+                "images/16.png",
+                "Étape 16 : Retournez sur Telegram Web"
+            ],
+            [
+                "Sélectionnez les fichiers et téléchargez-les",
+                "Sélectionnez les fichiers que vous souhaitez enregistrer, puis cliquez sur le bouton Download pour commencer le téléchargement.",
+                "images/17.png",
+                "Étape 17 : Sélectionnez les fichiers et commencez le téléchargement"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "Téléchargements groupés",
+                "Téléchargez plusieurs fichiers multimédias Telegram à la fois."
+            ],
+            [
+                "⏸️",
+                "Pause et reprise",
+                "Mettez les téléchargements en pause et reprenez-les plus tard."
+            ],
+            [
+                "📁",
+                "Organisation par mois",
+                "Gardez vos médias téléchargés organisés dans des dossiers mensuels."
+            ],
+            [
+                "🎥",
+                "Plusieurs types de médias",
+                "Téléchargez des vidéos, photos, fichiers, fichiers audio et messages vocaux."
+            ],
+            [
+                "📊",
+                "Suivi de la progression",
+                "Suivez la progression de vos téléchargements en temps réel."
+            ],
+            [
+                "🔄",
+                "Réessayer les téléchargements échoués",
+                "Réessayez rapidement les téléchargements individuels qui rencontrent une erreur."
+            ]
+        ]
+    },
+    "es": {
+        "languageLabel": "Idioma",
+        "installExtension": "Instalar extensión",
+        "badge": "🚀 Guía de inicio rápido",
+        "heroTitle": "Descarga fácilmente contenido privado de Telegram",
+        "heroDescription": "Sigue estos sencillos pasos para utilizar Ultimate Telegram Media Downloader y descargar fotos, vídeos, archivos, mensajes de voz y mucho más de grupos y canales privados y públicos de Telegram en Web K",
+        "getStarted": "Comenzar",
+        "exploreFeatures": "Explorar funciones",
+        "howItWorks": "CÓMO FUNCIONA",
+        "stepsTitle": "Empieza en unos sencillos pasos",
+        "stepsDescription": "Sigue las instrucciones numeradas y las indicaciones de cada captura de pantalla.",
+        "featuresEyebrow": "FUNCIONES",
+        "featuresTitle": "Todo lo que necesitas para descargar contenido de Telegram",
+        "helpEyebrow": "¿NECESITAS AYUDA?",
+        "helpTitle": "¿Algo no funciona?",
+        "helpDescription": "Consulta las preguntas frecuentes o contacta con soporte y te ayudaremos a solucionar el problema.",
+        "faq": "Preguntas frecuentes",
+        "contactSupport": "Contactar con soporte",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "Política de privacidad",
+        "support": "Soporte",
+        "meta": "Aprende a utilizar Ultimate Telegram Media Downloader para descargar fotos, vídeos, archivos y mucho más desde Telegram Web.",
+        "title": "Ultimate Telegram Media Downloader - Cómo utilizarlo",
+        "steps": [
+            [
+                "Visita Telegram Web",
+                "Abre Telegram Web en web.telegram.org/k/ e inicia sesión en tu cuenta de Telegram.",
+                "images/1.png",
+                "Paso 1: Visita Telegram Web"
+            ],
+            [
+                "Fija la extensión",
+                "Haz clic en el icono de Extensiones de Chrome, busca Ultimate Telegram Media Downloader y haz clic en el icono de fijar para acceder fácilmente a ella.",
+                "images/2.png",
+                "Paso 2: Fija la extensión"
+            ],
+            [
+                "Abre un canal",
+                "Abre cualquier canal privado o público de Telegram que contenga el contenido que quieras descargar.",
+                "images/3.png",
+                "Paso 3: Abre un canal privado o público"
+            ],
+            [
+                "Abre el descargador",
+                "Haz clic en el botón Ultimate Telegram Downloader de la barra de herramientas de Telegram Web para abrir el descargador.",
+                "images/4.png",
+                "Paso 4: Abre el descargador"
+            ],
+            [
+                "Elige qué analizar",
+                "En la pestaña Scanner, haz clic en el menú desplegable de tipos de contenido para elegir qué quieres buscar.",
+                "images/5.png",
+                "Paso 5: Selecciona qué descargar"
+            ],
+            [
+                "Elige un tipo de contenido",
+                "Selecciona una opción del menú desplegable. El contenido multimedia incluye fotos y vídeos, mientras que los archivos y las historias están disponibles como opciones independientes.",
+                "images/6.png",
+                "Paso 6: Elige un tipo de contenido"
+            ],
+            [
+                "Inicia el análisis",
+                "Haz clic en Scan for files para comenzar a buscar los elementos seleccionados en el canal.",
+                "images/7.png",
+                "Paso 7: Inicia el análisis"
+            ],
+            [
+                "Inicia tu prueba gratuita",
+                "Antes de descargar, debes registrarte e iniciar la prueba gratuita. La prueba que se muestra aquí permite realizar hasta 10 descargas durante 1 día.",
+                "images/8.png",
+                "Paso 8: Inicia la prueba gratuita"
+            ],
+            [
+                "Abre el acceso a la cuenta",
+                "Haz clic en el icono de usuario situado en la parte superior del descargador para abrir la pantalla de acceso a la cuenta.",
+                "images/9.png",
+                "Paso 9: Haz clic en el icono de usuario"
+            ],
+            [
+                "Haz clic en Start free trial",
+                "En la pantalla Account access, haz clic en Start free trial para comenzar el registro.",
+                "images/10.png",
+                "Paso 10: Inicia la prueba gratuita"
+            ],
+            [
+                "Introduce tu correo electrónico",
+                "Introduce una dirección de correo electrónico a la que tengas acceso y haz clic en Start trial.",
+                "images/11.png",
+                "Paso 11: Introduce tu correo electrónico e inicia la prueba"
+            ],
+            [
+                "Revisa tu bandeja de entrada",
+                "Se enviará un correo electrónico de confirmación a la dirección que has introducido. Abre tu bandeja de entrada y búscalo.",
+                "images/12.png",
+                "Paso 12: Revisa tu bandeja de entrada"
+            ],
+            [
+                "Abre el correo de confirmación",
+                "Busca el correo de confirmación de la prueba enviado por Extension Trial y ábrelo.",
+                "images/13.png",
+                "Paso 13: Abre el correo de confirmación"
+            ],
+            [
+                "Confirma tu correo electrónico",
+                "Haz clic en el botón Confirm email del mensaje para activar tu prueba gratuita.",
+                "images/14.png",
+                "Paso 14: Confirma tu correo electrónico"
+            ],
+            [
+                "Prueba confirmada",
+                "Cuando la página de confirmación indique que tu prueba gratuita está activa, podrás continuar.",
+                "images/15.png",
+                "Paso 15: Prueba gratuita confirmada"
+            ],
+            [
+                "Vuelve al descargador",
+                "Vuelve a la pestaña de Telegram Web. Tu cuenta ya está creada y tu prueba está activa.",
+                "images/16.png",
+                "Paso 16: Vuelve a Telegram Web"
+            ],
+            [
+                "Selecciona archivos y descárgalos",
+                "Selecciona los archivos que quieras guardar y haz clic en el botón Download para comenzar a descargarlos.",
+                "images/17.png",
+                "Paso 17: Selecciona archivos e inicia la descarga"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "Descargas en lote",
+                "Descarga varios archivos multimedia de Telegram a la vez."
+            ],
+            [
+                "⏸️",
+                "Pausar y reanudar",
+                "Pausa las descargas activas y continúa con ellas más tarde."
+            ],
+            [
+                "📁",
+                "Organización por mes",
+                "Mantén el contenido descargado organizado en carpetas mensuales."
+            ],
+            [
+                "🎥",
+                "Varios tipos de contenido",
+                "Descarga vídeos, fotos, archivos, audio y mensajes de voz."
+            ],
+            [
+                "📊",
+                "Seguimiento de progreso",
+                "Consulta el progreso de tus descargas mientras se realizan."
+            ],
+            [
+                "🔄",
+                "Reintentar descargas fallidas",
+                "Reintenta rápidamente las descargas individuales que encuentren un error."
+            ]
+        ]
+    },
+    "de": {
+        "languageLabel": "Sprache",
+        "installExtension": "Erweiterung installieren",
+        "badge": "🚀 Schnellstartanleitung",
+        "heroTitle": "Private Telegram-Medien ganz einfach herunterladen",
+        "heroDescription": "Folge diesen einfachen Schritten, um Ultimate Telegram Media Downloader zu verwenden und Fotos, Videos, Dateien, Sprachnachrichten und mehr aus privaten und öffentlichen Telegram-Gruppen und -Kanälen auf Telegram Web K herunterzuladen.",
+        "getStarted": "Loslegen",
+        "exploreFeatures": "Funktionen entdecken",
+        "howItWorks": "SO FUNKTIONIERT ES",
+        "stepsTitle": "In wenigen einfachen Schritten loslegen",
+        "stepsDescription": "Folge den nummerierten Anweisungen und den Markierungen in jedem Screenshot.",
+        "featuresEyebrow": "FUNKTIONEN",
+        "featuresTitle": "Alles, was du zum Herunterladen von Telegram-Medien benötigst",
+        "helpEyebrow": "BRAUCHST DU HILFE?",
+        "helpTitle": "Funktioniert etwas nicht?",
+        "helpDescription": "Sieh dir die FAQ an oder kontaktiere den Support. Wir helfen dir dabei, alles wieder zum Laufen zu bringen.",
+        "faq": "FAQ",
+        "contactSupport": "Support kontaktieren",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "Datenschutzerklärung",
+        "support": "Support",
+        "meta": "Erfahre, wie du Ultimate Telegram Media Downloader verwendest, um Fotos, Videos, Dateien und mehr aus Telegram Web herunterzuladen.",
+        "title": "Ultimate Telegram Media Downloader - Anleitung",
+        "steps": [
+            [
+                "Telegram Web besuchen",
+                "Öffne Telegram Web unter web.telegram.org/k/ und melde dich bei deinem Telegram-Konto an.",
+                "images/1.png",
+                "Schritt 1: Telegram Web besuchen"
+            ],
+            [
+                "Erweiterung anpinnen",
+                "Klicke in Chrome auf das Erweiterungssymbol, suche Ultimate Telegram Media Downloader und klicke auf das Stecknadelsymbol, damit du die Erweiterung einfach aufrufen kannst.",
+                "images/2.png",
+                "Schritt 2: Erweiterung anpinnen"
+            ],
+            [
+                "Einen Kanal öffnen",
+                "Öffne einen privaten oder öffentlichen Telegram-Kanal, der die Medien enthält, die du herunterladen möchtest.",
+                "images/3.png",
+                "Schritt 3: Privaten oder öffentlichen Kanal öffnen"
+            ],
+            [
+                "Downloader öffnen",
+                "Klicke in der Symbolleiste von Telegram Web auf die Schaltfläche Ultimate Telegram Downloader, um den Downloader zu öffnen.",
+                "images/4.png",
+                "Schritt 4: Downloader öffnen"
+            ],
+            [
+                "Auswählen, was gescannt werden soll",
+                "Klicke im Tab Scanner auf das Dropdown-Menü für Medientypen, um auszuwählen, wonach du suchen möchtest.",
+                "images/5.png",
+                "Schritt 5: Auswählen, was heruntergeladen werden soll"
+            ],
+            [
+                "Medientyp auswählen",
+                "Wähle eine Option aus dem Dropdown-Menü. Medien umfassen Fotos und Videos, während Dateien und Stories als separate Optionen verfügbar sind.",
+                "images/6.png",
+                "Schritt 6: Medientyp auswählen"
+            ],
+            [
+                "Scan starten",
+                "Klicke auf Scan for files, um nach den ausgewählten Elementen im Kanal zu suchen.",
+                "images/7.png",
+                "Schritt 7: Scan starten"
+            ],
+            [
+                "Kostenlose Testversion starten",
+                "Vor dem Herunterladen musst du dich registrieren und die kostenlose Testversion starten. Die hier gezeigte Testversion ermöglicht bis zu 10 Downloads für 1 Tag.",
+                "images/8.png",
+                "Schritt 8: Kostenlose Testversion starten"
+            ],
+            [
+                "Kontozugriff öffnen",
+                "Klicke oben im Downloader auf das Benutzersymbol, um den Bildschirm für den Kontozugriff zu öffnen.",
+                "images/9.png",
+                "Schritt 9: Auf das Benutzersymbol klicken"
+            ],
+            [
+                "Auf Start free trial klicken",
+                "Klicke auf dem Bildschirm Account access auf Start free trial, um die Registrierung zu beginnen.",
+                "images/10.png",
+                "Schritt 10: Kostenlose Testversion starten"
+            ],
+            [
+                "E-Mail-Adresse eingeben",
+                "Gib eine E-Mail-Adresse ein, auf die du zugreifen kannst, und klicke anschließend auf Start trial.",
+                "images/11.png",
+                "Schritt 11: E-Mail-Adresse eingeben und Testversion starten"
+            ],
+            [
+                "Posteingang überprüfen",
+                "Eine Bestätigungs-E-Mail wird an die eingegebene E-Mail-Adresse gesendet. Öffne deinen Posteingang und suche danach.",
+                "images/12.png",
+                "Schritt 12: E-Mail-Posteingang überprüfen"
+            ],
+            [
+                "Bestätigungs-E-Mail öffnen",
+                "Suche die Bestätigungs-E-Mail für die Testversion von Extension Trial und öffne sie.",
+                "images/13.png",
+                "Schritt 13: Bestätigungs-E-Mail öffnen"
+            ],
+            [
+                "E-Mail bestätigen",
+                "Klicke in der Nachricht auf die Schaltfläche Confirm email, um deine kostenlose Testversion zu aktivieren.",
+                "images/14.png",
+                "Schritt 14: E-Mail-Adresse bestätigen"
+            ],
+            [
+                "Testversion bestätigt",
+                "Sobald auf der Bestätigungsseite angezeigt wird, dass deine kostenlose Testversion aktiv ist, kannst du fortfahren.",
+                "images/15.png",
+                "Schritt 15: Kostenlose Testversion bestätigt"
+            ],
+            [
+                "Zum Downloader zurückkehren",
+                "Kehre zum Tab mit Telegram Web zurück. Dein Konto wurde nun erstellt und deine Testversion ist aktiv.",
+                "images/16.png",
+                "Schritt 16: Zu Telegram Web zurückkehren"
+            ],
+            [
+                "Dateien auswählen und herunterladen",
+                "Wähle die Dateien aus, die du speichern möchtest, und klicke anschließend auf die Schaltfläche Download, um den Download zu starten.",
+                "images/17.png",
+                "Schritt 17: Dateien auswählen und Download starten"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "Massendownloads",
+                "Lade mehrere Telegram-Mediendateien gleichzeitig herunter."
+            ],
+            [
+                "⏸️",
+                "Pausieren und fortsetzen",
+                "Pausiere aktive Downloads und setze sie später fort."
+            ],
+            [
+                "📁",
+                "Nach Monat organisieren",
+                "Halte heruntergeladene Medien in monatlichen Ordnern organisiert."
+            ],
+            [
+                "🎥",
+                "Mehrere Medientypen",
+                "Lade Videos, Fotos, Dateien, Audiodateien und Sprachnachrichten herunter."
+            ],
+            [
+                "📊",
+                "Fortschrittsanzeige",
+                "Verfolge den Fortschritt deiner Downloads während des Downloads."
+            ],
+            [
+                "🔄",
+                "Fehlgeschlagene Downloads wiederholen",
+                "Wiederhole einzelne Downloads, bei denen ein Fehler aufgetreten ist."
+            ]
+        ]
+    },
+    "th": {
+        "languageLabel": "ภาษา",
+        "installExtension": "ติดตั้งส่วนขยาย",
+        "badge": "🚀 คู่มือเริ่มต้นใช้งานฉบับย่อ",
+        "heroTitle": "ดาวน์โหลดสื่อส่วนตัวจาก Telegram ได้อย่างง่ายดาย",
+        "heroDescription": "ทำตามขั้นตอนง่าย ๆ เหล่านี้เพื่อใช้ Ultimate Telegram Media Downloader เพื่อดาวน์โหลดรูปภาพ วิดีโอ ไฟล์ ข้อความเสียง และอื่น ๆ จากกลุ่มและช่อง Telegram แบบส่วนตัวและสาธารณะบน Telegram Web K",
+        "getStarted": "เริ่มต้นใช้งาน",
+        "exploreFeatures": "ดูฟีเจอร์",
+        "howItWorks": "วิธีการใช้งาน",
+        "stepsTitle": "เริ่มต้นใช้งานได้ในไม่กี่ขั้นตอน",
+        "stepsDescription": "ทำตามคำแนะนำตามหมายเลขและจุดที่ทำเครื่องหมายไว้ในภาพหน้าจอแต่ละภาพ",
+        "featuresEyebrow": "ฟีเจอร์",
+        "featuresTitle": "ทุกสิ่งที่คุณต้องการสำหรับดาวน์โหลดสื่อจาก Telegram",
+        "helpEyebrow": "ต้องการความช่วยเหลือใช่ไหม?",
+        "helpTitle": "มีบางอย่างไม่ทำงานใช่ไหม?",
+        "helpDescription": "ดูคำถามที่พบบ่อยหรือติดต่อฝ่ายสนับสนุน แล้วเราจะช่วยให้คุณใช้งานได้ตามปกติ",
+        "faq": "คำถามที่พบบ่อย",
+        "contactSupport": "ติดต่อฝ่ายสนับสนุน",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "นโยบายความเป็นส่วนตัว",
+        "support": "ฝ่ายสนับสนุน",
+        "meta": "เรียนรู้วิธีใช้ Ultimate Telegram Media Downloader เพื่อดาวน์โหลดรูปภาพ วิดีโอ ไฟล์ และอื่น ๆ จาก Telegram Web",
+        "title": "Ultimate Telegram Media Downloader - วิธีใช้งาน",
+        "steps": [
+            [
+                "ไปที่ Telegram Web",
+                "เปิด Telegram Web ที่ web.telegram.org/k/ และเข้าสู่ระบบบัญชี Telegram ของคุณ",
+                "images/1.png",
+                "ขั้นตอนที่ 1: ไปที่ Telegram Web"
+            ],
+            [
+                "ปักหมุดส่วนขยาย",
+                "คลิกไอคอนส่วนขยายใน Chrome ค้นหา Ultimate Telegram Media Downloader แล้วคลิกไอคอนปักหมุดเพื่อให้เข้าถึงได้ง่าย",
+                "images/2.png",
+                "ขั้นตอนที่ 2: ปักหมุดส่วนขยาย"
+            ],
+            [
+                "เปิดช่อง",
+                "เปิดช่อง Telegram แบบส่วนตัวหรือสาธารณะที่มีสื่อที่คุณต้องการดาวน์โหลด",
+                "images/3.png",
+                "ขั้นตอนที่ 3: เปิดช่องส่วนตัวหรือสาธารณะ"
+            ],
+            [
+                "เปิดตัวดาวน์โหลด",
+                "คลิกปุ่ม Ultimate Telegram Downloader ในแถบเครื่องมือของ Telegram Web เพื่อเปิดตัวดาวน์โหลด",
+                "images/4.png",
+                "ขั้นตอนที่ 4: เปิดตัวดาวน์โหลด"
+            ],
+            [
+                "เลือกสิ่งที่ต้องการสแกน",
+                "ในแท็บ Scanner ให้คลิกเมนูแบบเลื่อนลงของประเภทสื่อเพื่อเลือกสิ่งที่คุณต้องการค้นหา",
+                "images/5.png",
+                "ขั้นตอนที่ 5: เลือกสิ่งที่ต้องการดาวน์โหลด"
+            ],
+            [
+                "เลือกประเภทสื่อ",
+                "เลือกตัวเลือกจากเมนูแบบเลื่อนลง สื่อประกอบด้วยรูปภาพและวิดีโอ ส่วนไฟล์และ Stories จะมีตัวเลือกแยกต่างหาก",
+                "images/6.png",
+                "ขั้นตอนที่ 6: เลือกประเภทสื่อ"
+            ],
+            [
+                "เริ่มการสแกน",
+                "คลิก Scan for files เพื่อเริ่มค้นหารายการที่เลือกในช่อง",
+                "images/7.png",
+                "ขั้นตอนที่ 7: เริ่มการสแกน"
+            ],
+            [
+                "เริ่มทดลองใช้ฟรี",
+                "ก่อนดาวน์โหลด คุณต้องลงทะเบียนและเริ่มทดลองใช้ฟรี การทดลองใช้ฟรีที่แสดงในที่นี้รองรับการดาวน์โหลดสูงสุด 10 รายการเป็นเวลา 1 วัน",
+                "images/8.png",
+                "ขั้นตอนที่ 8: เริ่มทดลองใช้ฟรี"
+            ],
+            [
+                "เปิดการเข้าถึงบัญชี",
+                "คลิกไอคอนผู้ใช้ที่ด้านบนของตัวดาวน์โหลดเพื่อเปิดหน้าการเข้าถึงบัญชี",
+                "images/9.png",
+                "ขั้นตอนที่ 9: คลิกไอคอนผู้ใช้"
+            ],
+            [
+                "คลิก Start free trial",
+                "ในหน้าการเข้าถึงบัญชี คลิก Start free trial เพื่อเริ่มการลงทะเบียน",
+                "images/10.png",
+                "ขั้นตอนที่ 10: เริ่มทดลองใช้ฟรี"
+            ],
+            [
+                "กรอกอีเมลของคุณ",
+                "กรอกที่อยู่อีเมลที่คุณสามารถเข้าถึงได้ จากนั้นคลิก Start trial",
+                "images/11.png",
+                "ขั้นตอนที่ 11: กรอกอีเมลและเริ่มทดลองใช้ฟรี"
+            ],
+            [
+                "ตรวจสอบกล่องจดหมาย",
+                "อีเมลยืนยันจะถูกส่งไปยังที่อยู่อีเมลที่คุณกรอก เปิดกล่องจดหมายและค้นหาอีเมลดังกล่าว",
+                "images/12.png",
+                "ขั้นตอนที่ 12: ตรวจสอบกล่องจดหมาย"
+            ],
+            [
+                "เปิดอีเมลยืนยัน",
+                "ค้นหาอีเมลยืนยันการทดลองใช้ฟรีจาก Extension Trial แล้วเปิดอีเมล",
+                "images/13.png",
+                "ขั้นตอนที่ 13: เปิดอีเมลยืนยัน"
+            ],
+            [
+                "ยืนยันอีเมลของคุณ",
+                "คลิกปุ่ม Confirm email ในข้อความเพื่อเปิดใช้งานทดลองใช้ฟรี",
+                "images/14.png",
+                "ขั้นตอนที่ 14: ยืนยันอีเมลของคุณ"
+            ],
+            [
+                "ยืนยันการทดลองใช้ฟรีแล้ว",
+                "เมื่อหน้าการยืนยันแสดงว่าการทดลองใช้ฟรีของคุณเปิดใช้งานแล้ว คุณก็พร้อมที่จะดำเนินการต่อ",
+                "images/15.png",
+                "ขั้นตอนที่ 15: ยืนยันการทดลองใช้ฟรี"
+            ],
+            [
+                "กลับไปที่ตัวดาวน์โหลด",
+                "กลับไปที่แท็บ Telegram Web บัญชีของคุณถูกสร้างเรียบร้อยแล้วและการทดลองใช้ฟรีของคุณเปิดใช้งานอยู่",
+                "images/16.png",
+                "ขั้นตอนที่ 16: กลับไปที่ Telegram Web"
+            ],
+            [
+                "เลือกไฟล์และดาวน์โหลด",
+                "เลือกไฟล์ที่คุณต้องการบันทึก จากนั้นคลิกปุ่ม Download เพื่อเริ่มดาวน์โหลด",
+                "images/17.png",
+                "ขั้นตอนที่ 17: เลือกไฟล์และเริ่มดาวน์โหลด"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "ดาวน์โหลดหลายรายการพร้อมกัน",
+                "ดาวน์โหลดไฟล์สื่อจาก Telegram หลายไฟล์พร้อมกัน"
+            ],
+            [
+                "⏸️",
+                "หยุดชั่วคราวและดำเนินการต่อ",
+                "หยุดการดาวน์โหลดที่กำลังดำเนินการชั่วคราวและกลับมาดาวน์โหลดต่อภายหลัง"
+            ],
+            [
+                "📁",
+                "จัดระเบียบตามเดือน",
+                "จัดเก็บสื่อที่ดาวน์โหลดไว้ในโฟลเดอร์แยกตามเดือน"
+            ],
+            [
+                "🎥",
+                "รองรับสื่อหลายประเภท",
+                "ดาวน์โหลดวิดีโอ รูปภาพ ไฟล์ เสียง และข้อความเสียง"
+            ],
+            [
+                "📊",
+                "ติดตามความคืบหน้า",
+                "ดูความคืบหน้าของการดาวน์โหลดแบบเรียลไทม์"
+            ],
+            [
+                "🔄",
+                "ลองดาวน์โหลดที่ล้มเหลวอีกครั้ง",
+                "ลองดาวน์โหลดรายการที่เกิดข้อผิดพลาดอีกครั้งได้อย่างรวดเร็ว"
+            ]
+        ]
+    },
+    "ms": {
+        "languageLabel": "Bahasa",
+        "installExtension": "Pasang Sambungan",
+        "badge": "🚀 Panduan Mula Pantas",
+        "heroTitle": "Muat turun media Telegram peribadi dengan mudah",
+        "heroDescription": "Ikuti langkah mudah ini untuk menggunakan Ultimate Telegram Media Downloader bagi memuat turun foto, video, fail, mesej suara dan banyak lagi daripada kumpulan dan saluran Telegram peribadi serta awam di Telegram Web K",
+        "getStarted": "Mulakan",
+        "exploreFeatures": "Terokai Ciri",
+        "howItWorks": "CARA IA BERFUNGSI",
+        "stepsTitle": "Mulakan dengan beberapa langkah mudah",
+        "stepsDescription": "Ikuti arahan bernombor dan penanda pada setiap tangkapan skrin.",
+        "featuresEyebrow": "CIRI-CIRI",
+        "featuresTitle": "Semua yang anda perlukan untuk memuat turun media Telegram",
+        "helpEyebrow": "PERLUKAN BANTUAN?",
+        "helpTitle": "Ada sesuatu yang tidak berfungsi?",
+        "helpDescription": "Semak Soalan Lazim atau hubungi sokongan dan kami akan membantu anda menyelesaikan masalah.",
+        "faq": "Soalan Lazim",
+        "contactSupport": "Hubungi Sokongan",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "Dasar Privasi",
+        "support": "Sokongan",
+        "meta": "Ketahui cara menggunakan Ultimate Telegram Media Downloader untuk memuat turun foto, video, fail dan banyak lagi daripada Telegram Web.",
+        "title": "Ultimate Telegram Media Downloader - Cara Menggunakannya",
+        "steps": [
+            [
+                "Lawati Telegram Web",
+                "Buka Telegram Web di web.telegram.org/k/ dan log masuk ke akaun Telegram anda.",
+                "images/1.png",
+                "Langkah 1: Lawati Telegram Web"
+            ],
+            [
+                "Pin sambungan",
+                "Klik ikon Sambungan di Chrome, cari Ultimate Telegram Media Downloader dan klik ikon pin supaya mudah diakses.",
+                "images/2.png",
+                "Langkah 2: Pin sambungan"
+            ],
+            [
+                "Buka saluran",
+                "Buka mana-mana saluran Telegram peribadi atau awam yang mengandungi media yang ingin anda muat turun.",
+                "images/3.png",
+                "Langkah 3: Buka saluran peribadi atau awam"
+            ],
+            [
+                "Buka pemuat turun",
+                "Klik butang Ultimate Telegram Downloader dalam bar alat Telegram Web untuk membuka pemuat turun.",
+                "images/4.png",
+                "Langkah 4: Buka pemuat turun"
+            ],
+            [
+                "Pilih perkara yang ingin diimbas",
+                "Dalam tab Scanner, klik menu lungsur jenis media untuk memilih perkara yang ingin anda cari.",
+                "images/5.png",
+                "Langkah 5: Pilih perkara yang ingin dimuat turun"
+            ],
+            [
+                "Pilih jenis media",
+                "Pilih pilihan daripada menu lungsur. Media termasuk foto dan video, manakala Fail dan Stories tersedia sebagai pilihan berasingan.",
+                "images/6.png",
+                "Langkah 6: Pilih jenis media"
+            ],
+            [
+                "Mulakan imbasan",
+                "Klik Scan for files untuk mula mencari item yang dipilih dalam saluran.",
+                "images/7.png",
+                "Langkah 7: Mulakan imbasan"
+            ],
+            [
+                "Mulakan percubaan percuma anda",
+                "Sebelum memuat turun, anda perlu mendaftar dan memulakan percubaan percuma. Percubaan yang ditunjukkan di sini membolehkan sehingga 10 muat turun selama 1 hari.",
+                "images/8.png",
+                "Langkah 8: Mulakan percubaan percuma"
+            ],
+            [
+                "Buka akses akaun",
+                "Klik ikon pengguna di bahagian atas pemuat turun untuk membuka skrin akses akaun.",
+                "images/9.png",
+                "Langkah 9: Klik ikon pengguna"
+            ],
+            [
+                "Klik Start free trial",
+                "Pada skrin Account access, klik Start free trial untuk memulakan pendaftaran.",
+                "images/10.png",
+                "Langkah 10: Mulakan percubaan percuma"
+            ],
+            [
+                "Masukkan e-mel anda",
+                "Masukkan alamat e-mel yang boleh anda akses, kemudian klik Start trial.",
+                "images/11.png",
+                "Langkah 11: Masukkan e-mel dan mulakan percubaan"
+            ],
+            [
+                "Semak peti masuk anda",
+                "E-mel pengesahan akan dihantar ke alamat e-mel yang anda masukkan. Buka peti masuk e-mel anda dan cari e-mel tersebut.",
+                "images/12.png",
+                "Langkah 12: Semak peti masuk e-mel anda"
+            ],
+            [
+                "Buka e-mel pengesahan",
+                "Cari e-mel pengesahan percubaan daripada Extension Trial dan bukanya.",
+                "images/13.png",
+                "Langkah 13: Buka e-mel pengesahan"
+            ],
+            [
+                "Sahkan e-mel anda",
+                "Klik butang Confirm email dalam mesej tersebut untuk mengaktifkan percubaan percuma anda.",
+                "images/14.png",
+                "Langkah 14: Sahkan e-mel anda"
+            ],
+            [
+                "Percubaan disahkan",
+                "Setelah halaman pengesahan menunjukkan bahawa percubaan percuma anda aktif, anda boleh meneruskan.",
+                "images/15.png",
+                "Langkah 15: Percubaan percuma disahkan"
+            ],
+            [
+                "Kembali ke pemuat turun",
+                "Kembali ke tab Telegram Web. Akaun anda kini telah dibuat dan percubaan anda telah aktif.",
+                "images/16.png",
+                "Langkah 16: Kembali ke Telegram Web"
+            ],
+            [
+                "Pilih fail dan muat turun",
+                "Pilih fail yang ingin anda simpan, kemudian klik butang Download untuk memulakan muat turun.",
+                "images/17.png",
+                "Langkah 17: Pilih fail dan mulakan muat turun"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "Muat turun secara pukal",
+                "Muat turun berbilang fail media Telegram pada masa yang sama."
+            ],
+            [
+                "⏸️",
+                "Jeda dan sambung semula",
+                "Jeda muat turun yang sedang berjalan dan sambung semula kemudian."
+            ],
+            [
+                "📁",
+                "Susun mengikut bulan",
+                "Pastikan media yang dimuat turun tersusun dalam folder mengikut bulan."
+            ],
+            [
+                "🎥",
+                "Pelbagai jenis media",
+                "Muat turun video, foto, fail, audio dan mesej suara."
+            ],
+            [
+                "📊",
+                "Jejak kemajuan",
+                "Lihat kemajuan muat turun anda semasa ia berlangsung."
+            ],
+            [
+                "🔄",
+                "Cuba semula muat turun yang gagal",
+                "Cuba semula dengan cepat muat turun individu yang mengalami ralat."
+            ]
+        ]
+    },
+    "ar": {
+        "languageLabel": "اللغة",
+        "installExtension": "تثبيت الإضافة",
+        "badge": "🚀 دليل البدء السريع",
+        "heroTitle": "نزّل وسائط Telegram الخاصة بسهولة",
+        "heroDescription": "اتبع هذه الخطوات البسيطة لاستخدام Ultimate Telegram Media Downloader لتنزيل الصور ومقاطع الفيديو والملفات والرسائل الصوتية والمزيد من مجموعات وقنوات Telegram الخاصة والعامة على Telegram Web K",
+        "getStarted": "ابدأ الآن",
+        "exploreFeatures": "استكشف الميزات",
+        "howItWorks": "كيف يعمل",
+        "stepsTitle": "ابدأ في بضع خطوات بسيطة",
+        "stepsDescription": "اتبع التعليمات المرقمة والعلامات الموضحة في كل لقطة شاشة.",
+        "featuresEyebrow": "الميزات",
+        "featuresTitle": "كل ما تحتاجه لتنزيل وسائط Telegram",
+        "helpEyebrow": "هل تحتاج إلى مساعدة؟",
+        "helpTitle": "هل هناك شيء لا يعمل؟",
+        "helpDescription": "تحقق من الأسئلة الشائعة أو تواصل مع الدعم وسنساعدك على حل المشكلة.",
+        "faq": "الأسئلة الشائعة",
+        "contactSupport": "تواصل مع الدعم",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "سياسة الخصوصية",
+        "support": "الدعم",
+        "meta": "تعرّف على كيفية استخدام Ultimate Telegram Media Downloader لتنزيل الصور ومقاطع الفيديو والملفات والمزيد من Telegram Web.",
+        "title": "Ultimate Telegram Media Downloader - كيفية الاستخدام",
+        "steps": [
+            [
+                "انتقل إلى Telegram Web",
+                "افتح Telegram Web على web.telegram.org/k/ وسجّل الدخول إلى حسابك على Telegram.",
+                "images/1.png",
+                "الخطوة 1: انتقل إلى Telegram Web"
+            ],
+            [
+                "ثبّت الإضافة",
+                "انقر على أيقونة الإضافات في Chrome، وابحث عن Ultimate Telegram Media Downloader، ثم انقر على أيقونة التثبيت لتسهيل الوصول إليها.",
+                "images/2.png",
+                "الخطوة 2: ثبّت الإضافة"
+            ],
+            [
+                "افتح قناة",
+                "افتح أي قناة خاصة أو عامة على Telegram تحتوي على الوسائط التي تريد تنزيلها.",
+                "images/3.png",
+                "الخطوة 3: افتح قناة خاصة أو عامة"
+            ],
+            [
+                "افتح أداة التنزيل",
+                "انقر على زر Ultimate Telegram Downloader في شريط أدوات Telegram Web لفتح أداة التنزيل.",
+                "images/4.png",
+                "الخطوة 4: افتح أداة التنزيل"
+            ],
+            [
+                "اختر ما تريد فحصه",
+                "في علامة التبويب Scanner، انقر على القائمة المنسدلة لأنواع الوسائط لاختيار ما تريد البحث عنه.",
+                "images/5.png",
+                "الخطوة 5: اختر ما تريد تنزيله"
+            ],
+            [
+                "اختر نوع الوسائط",
+                "حدد خيارًا من القائمة المنسدلة. تشمل الوسائط الصور ومقاطع الفيديو، بينما تتوفر الملفات والقصص كخيارات منفصلة.",
+                "images/6.png",
+                "الخطوة 6: اختر نوع الوسائط"
+            ],
+            [
+                "ابدأ الفحص",
+                "انقر على Scan for files لبدء البحث عن العناصر المحددة في القناة.",
+                "images/7.png",
+                "الخطوة 7: ابدأ الفحص"
+            ],
+            [
+                "ابدأ تجربتك المجانية",
+                "قبل التنزيل، يجب عليك التسجيل وبدء التجربة المجانية. تتيح التجربة الموضحة هنا تنزيل ما يصل إلى 10 ملفات لمدة يوم واحد.",
+                "images/8.png",
+                "الخطوة 8: ابدأ التجربة المجانية"
+            ],
+            [
+                "افتح الوصول إلى الحساب",
+                "انقر على أيقونة المستخدم في أعلى أداة التنزيل لفتح شاشة الوصول إلى الحساب.",
+                "images/9.png",
+                "الخطوة 9: انقر على أيقونة المستخدم"
+            ],
+            [
+                "انقر على Start free trial",
+                "في شاشة Account access، انقر على Start free trial لبدء التسجيل.",
+                "images/10.png",
+                "الخطوة 10: ابدأ التجربة المجانية"
+            ],
+            [
+                "أدخل بريدك الإلكتروني",
+                "أدخل عنوان بريد إلكتروني يمكنك الوصول إليه، ثم انقر على Start trial.",
+                "images/11.png",
+                "الخطوة 11: أدخل بريدك الإلكتروني وابدأ التجربة"
+            ],
+            [
+                "تحقق من صندوق الوارد",
+                "سيتم إرسال رسالة تأكيد إلى عنوان البريد الإلكتروني الذي أدخلته. افتح صندوق الوارد وابحث عنها.",
+                "images/12.png",
+                "الخطوة 12: تحقق من بريدك الإلكتروني"
+            ],
+            [
+                "افتح رسالة التأكيد",
+                "ابحث عن رسالة تأكيد التجربة من Extension Trial وافتحها.",
+                "images/13.png",
+                "الخطوة 13: افتح رسالة التأكيد"
+            ],
+            [
+                "أكد بريدك الإلكتروني",
+                "انقر على زر Confirm email في الرسالة لتفعيل تجربتك المجانية.",
+                "images/14.png",
+                "الخطوة 14: أكد بريدك الإلكتروني"
+            ],
+            [
+                "تم تأكيد التجربة",
+                "عندما تعرض صفحة التأكيد أن تجربتك المجانية مفعّلة، يمكنك المتابعة.",
+                "images/15.png",
+                "الخطوة 15: تم تأكيد التجربة المجانية"
+            ],
+            [
+                "العودة إلى أداة التنزيل",
+                "ارجع إلى علامة تبويب Telegram Web. تم الآن إنشاء حسابك وتفعيل تجربتك.",
+                "images/16.png",
+                "الخطوة 16: العودة إلى Telegram Web"
+            ],
+            [
+                "حدد الملفات ونزّلها",
+                "حدد الملفات التي تريد حفظها، ثم انقر على زر Download لبدء تنزيلها.",
+                "images/17.png",
+                "الخطوة 17: حدد الملفات وابدأ التنزيل"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "تنزيلات جماعية",
+                "نزّل عدة ملفات وسائط من Telegram في الوقت نفسه."
+            ],
+            [
+                "⏸️",
+                "إيقاف مؤقت واستئناف",
+                "أوقف التنزيلات النشطة مؤقتًا واستأنفها لاحقًا."
+            ],
+            [
+                "📁",
+                "تنظيم حسب الشهر",
+                "حافظ على تنظيم الوسائط التي تم تنزيلها في مجلدات شهرية."
+            ],
+            [
+                "🎥",
+                "أنواع وسائط متعددة",
+                "نزّل مقاطع الفيديو والصور والملفات والملفات الصوتية والرسائل الصوتية."
+            ],
+            [
+                "📊",
+                "تتبع التقدم",
+                "شاهد تقدم عمليات التنزيل أثناء تنفيذها."
+            ],
+            [
+                "🔄",
+                "إعادة محاولة التنزيلات الفاشلة",
+                "أعد محاولة تنزيل الملفات الفردية التي واجهت خطأ بسرعة."
+            ]
+        ]
+    },
+    "he": {
+        "languageLabel": "שפה",
+        "installExtension": "התקנת התוסף",
+        "badge": "🚀 מדריך התחלה מהירה",
+        "heroTitle": "הורד מדיה פרטית מ-Telegram בקלות",
+        "heroDescription": "עקוב אחר השלבים הפשוטים האלה כדי להשתמש ב-Ultimate Telegram Media Downloader ולהוריד תמונות, סרטונים, קבצים, הודעות קוליות ועוד מקבוצות וערוצי Telegram פרטיים וציבוריים ב-Telegram Web K",
+        "getStarted": "התחלה",
+        "exploreFeatures": "גלה את התכונות",
+        "howItWorks": "איך זה עובד",
+        "stepsTitle": "התחל בכמה צעדים פשוטים",
+        "stepsDescription": "עקוב אחר ההוראות הממוספרות והסימונים בכל צילום מסך.",
+        "featuresEyebrow": "תכונות",
+        "featuresTitle": "כל מה שאתה צריך כדי להוריד מדיה מ-Telegram",
+        "helpEyebrow": "צריך עזרה?",
+        "helpTitle": "משהו לא עובד?",
+        "helpDescription": "עיין בשאלות הנפוצות או פנה לתמיכה, ואנחנו נעזור לך לפתור את הבעיה.",
+        "faq": "שאלות נפוצות",
+        "contactSupport": "צור קשר עם התמיכה",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "מדיניות פרטיות",
+        "support": "תמיכה",
+        "meta": "למד כיצד להשתמש ב-Ultimate Telegram Media Downloader כדי להוריד תמונות, סרטונים, קבצים ועוד מ-Telegram Web.",
+        "title": "Ultimate Telegram Media Downloader - הוראות שימוש",
+        "steps": [
+            [
+                "עבור אל Telegram Web",
+                "פתח את Telegram Web בכתובת web.telegram.org/k/ והתחבר לחשבון ה-Telegram שלך.",
+                "images/1.png",
+                "שלב 1: עבור אל Telegram Web"
+            ],
+            [
+                "הצמד את התוסף",
+                "לחץ על סמל התוספים ב-Chrome, מצא את Ultimate Telegram Media Downloader ולחץ על סמל ההצמדה כדי שיהיה קל לגשת אליו.",
+                "images/2.png",
+                "שלב 2: הצמד את התוסף"
+            ],
+            [
+                "פתח ערוץ",
+                "פתח כל ערוץ Telegram פרטי או ציבורי שמכיל את המדיה שברצונך להוריד.",
+                "images/3.png",
+                "שלב 3: פתח ערוץ פרטי או ציבורי"
+            ],
+            [
+                "פתח את כלי ההורדה",
+                "לחץ על כפתור Ultimate Telegram Downloader בסרגל הכלים של Telegram Web כדי לפתוח את כלי ההורדה.",
+                "images/4.png",
+                "שלב 4: פתח את כלי ההורדה"
+            ],
+            [
+                "בחר מה לסרוק",
+                "בלשונית Scanner, לחץ על התפריט הנפתח של סוגי המדיה כדי לבחור מה ברצונך למצוא.",
+                "images/5.png",
+                "שלב 5: בחר מה להוריד"
+            ],
+            [
+                "בחר סוג מדיה",
+                "בחר אפשרות מהתפריט הנפתח. מדיה כוללת תמונות וסרטונים, בעוד שקבצים ו-Stories זמינים כאפשרויות נפרדות.",
+                "images/6.png",
+                "שלב 6: בחר סוג מדיה"
+            ],
+            [
+                "התחל את הסריקה",
+                "לחץ על Scan for files כדי להתחיל למצוא את הפריטים שנבחרו בערוץ.",
+                "images/7.png",
+                "שלב 7: התחל את הסריקה"
+            ],
+            [
+                "התחל את תקופת הניסיון בחינם",
+                "לפני ההורדה, עליך להירשם ולהתחיל את תקופת הניסיון בחינם. תקופת הניסיון המוצגת כאן מאפשרת עד 10 הורדות למשך יום אחד.",
+                "images/8.png",
+                "שלב 8: התחל את תקופת הניסיון בחינם"
+            ],
+            [
+                "פתח את גישת החשבון",
+                "לחץ על סמל המשתמש בחלק העליון של כלי ההורדה כדי לפתוח את מסך גישת החשבון.",
+                "images/9.png",
+                "שלב 9: לחץ על סמל המשתמש"
+            ],
+            [
+                "לחץ על Start free trial",
+                "במסך Account access, לחץ על Start free trial כדי להתחיל את ההרשמה.",
+                "images/10.png",
+                "שלב 10: התחל את תקופת הניסיון בחינם"
+            ],
+            [
+                "הזן את כתובת האימייל שלך",
+                "הזן כתובת אימייל שאליה יש לך גישה, ולאחר מכן לחץ על Start trial.",
+                "images/11.png",
+                "שלב 11: הזן את האימייל שלך והתחל את תקופת הניסיון"
+            ],
+            [
+                "בדוק את תיבת הדואר הנכנס",
+                "הודעת אישור תישלח לכתובת האימייל שהזנת. פתח את תיבת הדואר הנכנס וחפש אותה.",
+                "images/12.png",
+                "שלב 12: בדוק את תיבת הדואר הנכנס"
+            ],
+            [
+                "פתח את הודעת האישור",
+                "מצא את הודעת האישור של תקופת הניסיון מ-Extension Trial ופתח אותה.",
+                "images/13.png",
+                "שלב 13: פתח את הודעת האישור"
+            ],
+            [
+                "אשר את האימייל שלך",
+                "לחץ על כפתור Confirm email בהודעה כדי להפעיל את תקופת הניסיון בחינם.",
+                "images/14.png",
+                "שלב 14: אשר את כתובת האימייל שלך"
+            ],
+            [
+                "תקופת הניסיון אושרה",
+                "לאחר שדף האישור מציג שתקופת הניסיון בחינם שלך פעילה, תוכל להמשיך.",
+                "images/15.png",
+                "שלב 15: תקופת הניסיון בחינם אושרה"
+            ],
+            [
+                "חזור לכלי ההורדה",
+                "חזור ללשונית Telegram Web. החשבון שלך נוצר כעת ותקופת הניסיון שלך פעילה.",
+                "images/16.png",
+                "שלב 16: חזור ל-Telegram Web"
+            ],
+            [
+                "בחר קבצים והורד אותם",
+                "בחר את הקבצים שברצונך לשמור ולאחר מכן לחץ על כפתור Download כדי להתחיל בהורדה.",
+                "images/17.png",
+                "שלב 17: בחר קבצים והתחל את ההורדה"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "הורדות מרובות",
+                "הורד מספר קובצי מדיה מ-Telegram בו-זמנית."
+            ],
+            [
+                "⏸️",
+                "השהיה והמשך",
+                "השהה הורדות פעילות והמשך אותן מאוחר יותר."
+            ],
+            [
+                "📁",
+                "ארגון לפי חודש",
+                "שמור את המדיה שהורדת מאורגנת בתיקיות חודשיות."
+            ],
+            [
+                "🎥",
+                "מספר סוגי מדיה",
+                "הורד סרטונים, תמונות, קבצים, קובצי שמע והודעות קוליות."
+            ],
+            [
+                "📊",
+                "מעקב אחר התקדמות",
+                "צפה בהתקדמות ההורדות שלך בזמן שהן מתבצעות."
+            ],
+            [
+                "🔄",
+                "ניסיון חוזר של הורדות שנכשלו",
+                "נסה במהירות להוריד שוב קבצים בודדים שנתקלו בשגיאה."
+            ]
+        ]
+    },
+    "cs": {
+        "languageLabel": "Jazyk",
+        "installExtension": "Nainstalovat rozšíření",
+        "badge": "🚀 Průvodce rychlým spuštěním",
+        "heroTitle": "Stahujte soukromá média z Telegramu snadno",
+        "heroDescription": "Postupujte podle těchto jednoduchých kroků a používejte Ultimate Telegram Media Downloader ke stahování fotografií, videí, souborů, hlasových zpráv a dalšího obsahu ze soukromých i veřejných skupin a kanálů Telegramu na Web K",
+        "getStarted": "Začít",
+        "exploreFeatures": "Prozkoumat funkce",
+        "howItWorks": "JAK TO FUNGUJE",
+        "stepsTitle": "Začněte v několika jednoduchých krocích",
+        "stepsDescription": "Postupujte podle číslovaných pokynů a označení na jednotlivých snímcích obrazovky.",
+        "featuresEyebrow": "FUNKCE",
+        "featuresTitle": "Vše, co potřebujete ke stahování médií z Telegramu",
+        "helpEyebrow": "POTŘEBUJETE POMOC?",
+        "helpTitle": "Něco nefunguje?",
+        "helpDescription": "Podívejte se do FAQ nebo kontaktujte podporu a pomůžeme vám vše zprovoznit.",
+        "faq": "FAQ",
+        "contactSupport": "Kontaktovat podporu",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "Zásady ochrany osobních údajů",
+        "support": "Podpora",
+        "meta": "Zjistěte, jak používat Ultimate Telegram Media Downloader ke stahování fotografií, videí, souborů a dalšího obsahu z Telegram Web.",
+        "title": "Ultimate Telegram Media Downloader - Jak používat",
+        "steps": [
+            [
+                "Navštivte Telegram Web",
+                "Otevřete Telegram Web na web.telegram.org/k/ a přihlaste se ke svému účtu Telegram.",
+                "images/1.png",
+                "Krok 1: Navštivte Telegram Web"
+            ],
+            [
+                "Připněte rozšíření",
+                "Klikněte na ikonu Rozšíření v Chromu, najděte Ultimate Telegram Media Downloader a kliknutím na ikonu špendlíku jej připněte pro snadný přístup.",
+                "images/2.png",
+                "Krok 2: Připněte rozšíření"
+            ],
+            [
+                "Otevřete kanál",
+                "Otevřete libovolný soukromý nebo veřejný kanál Telegramu obsahující média, která chcete stáhnout.",
+                "images/3.png",
+                "Krok 3: Otevřete soukromý nebo veřejný kanál"
+            ],
+            [
+                "Otevřete downloader",
+                "Kliknutím na tlačítko Ultimate Telegram Downloader v liště Telegram Web otevřete downloader.",
+                "images/4.png",
+                "Krok 4: Otevřete downloader"
+            ],
+            [
+                "Vyberte, co chcete prohledat",
+                "Na kartě Scanner klikněte na rozbalovací nabídku typu médií a vyberte, co chcete najít.",
+                "images/5.png",
+                "Krok 5: Vyberte, co chcete stáhnout"
+            ],
+            [
+                "Vyberte typ médií",
+                "Vyberte možnost z rozbalovací nabídky. Média zahrnují fotografie a videa, zatímco Soubory a Příběhy jsou dostupné jako samostatné možnosti.",
+                "images/6.png",
+                "Krok 6: Vyberte typ médií"
+            ],
+            [
+                "Spusťte skenování",
+                "Kliknutím na Scan for files začněte hledat vybrané položky v kanálu.",
+                "images/7.png",
+                "Krok 7: Spusťte skenování"
+            ],
+            [
+                "Spusťte bezplatnou zkušební verzi",
+                "Před stahováním se musíte zaregistrovat a spustit bezplatnou zkušební verzi. Zde zobrazená zkušební verze umožňuje až 10 stažení během 1 dne.",
+                "images/8.png",
+                "Krok 8: Spusťte bezplatnou zkušební verzi"
+            ],
+            [
+                "Otevřete přístup k účtu",
+                "Kliknutím na ikonu uživatele v horní části downloaderu otevřete obrazovku přístupu k účtu.",
+                "images/9.png",
+                "Krok 9: Klikněte na ikonu uživatele"
+            ],
+            [
+                "Klikněte na Start free trial",
+                "Na obrazovce Account access klikněte na Start free trial a zahajte registraci.",
+                "images/10.png",
+                "Krok 10: Spusťte bezplatnou zkušební verzi"
+            ],
+            [
+                "Zadejte svůj e-mail",
+                "Zadejte e-mailovou adresu, ke které máte přístup, a poté klikněte na Start trial.",
+                "images/11.png",
+                "Krok 11: Zadejte e-mail a spusťte zkušební verzi"
+            ],
+            [
+                "Zkontrolujte doručenou poštu",
+                "Na zadanou e-mailovou adresu bude odeslán potvrzovací e-mail. Otevřete svou doručenou poštu a vyhledejte jej.",
+                "images/12.png",
+                "Krok 12: Zkontrolujte svou e-mailovou schránku"
+            ],
+            [
+                "Otevřete potvrzovací e-mail",
+                "Najděte potvrzovací e-mail ke zkušební verzi od Extension Trial a otevřete jej.",
+                "images/13.png",
+                "Krok 13: Otevřete potvrzovací e-mail"
+            ],
+            [
+                "Potvrďte svůj e-mail",
+                "V e-mailu klikněte na tlačítko Confirm email a aktivujte svou bezplatnou zkušební verzi.",
+                "images/14.png",
+                "Krok 14: Potvrďte svůj e-mail"
+            ],
+            [
+                "Zkušební verze potvrzena",
+                "Jakmile potvrzovací stránka zobrazí, že je vaše bezplatná zkušební verze aktivní, můžete pokračovat.",
+                "images/15.png",
+                "Krok 15: Bezplatná zkušební verze potvrzena"
+            ],
+            [
+                "Vraťte se do downloaderu",
+                "Vraťte se na kartu Telegram Web. Váš účet je nyní vytvořen a zkušební verze je aktivní.",
+                "images/16.png",
+                "Krok 16: Vraťte se na Telegram Web"
+            ],
+            [
+                "Vyberte soubory a stáhněte je",
+                "Vyberte soubory, které chcete uložit, a poté kliknutím na tlačítko Download spusťte jejich stahování.",
+                "images/17.png",
+                "Krok 17: Vyberte soubory a spusťte stahování"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "Hromadné stahování",
+                "Stahujte více mediálních souborů z Telegramu najednou."
+            ],
+            [
+                "⏸️",
+                "Pozastavení a obnovení",
+                "Pozastavte aktivní stahování a pokračujte v něm později."
+            ],
+            [
+                "📁",
+                "Organizace podle měsíců",
+                "Udržujte stažená média uspořádaná ve složkách podle měsíců."
+            ],
+            [
+                "🎥",
+                "Více typů médií",
+                "Stahujte videa, fotografie, soubory, zvukové a hlasové zprávy."
+            ],
+            [
+                "📊",
+                "Sledování průběhu",
+                "Sledujte průběh stahování v reálném čase."
+            ],
+            [
+                "🔄",
+                "Opakování neúspěšných stahování",
+                "Rychle zopakujte jednotlivá stahování, při kterých došlo k chybě."
+            ]
+        ]
+    },
+    "hr": {
+        "languageLabel": "Jezik",
+        "installExtension": "Instaliraj proširenje",
+        "badge": "🚀 Vodič za brzi početak",
+        "heroTitle": "Jednostavno preuzmite privatne medije s Telegrama",
+        "heroDescription": "Slijedite ove jednostavne korake kako biste koristili Ultimate Telegram Media Downloader za preuzimanje fotografija, videozapisa, datoteka, glasovnih poruka i još mnogo toga iz privatnih i javnih Telegram grupa i kanala na Web K",
+        "getStarted": "Započnite",
+        "exploreFeatures": "Istražite značajke",
+        "howItWorks": "KAKO FUNKCIONIRA",
+        "stepsTitle": "Započnite u nekoliko jednostavnih koraka",
+        "stepsDescription": "Slijedite numerirane upute i oznake na svakoj snimci zaslona.",
+        "featuresEyebrow": "ZNAČAJKE",
+        "featuresTitle": "Sve što vam je potrebno za preuzimanje Telegram medija",
+        "helpEyebrow": "TREBATE POMOĆ?",
+        "helpTitle": "Nešto ne radi?",
+        "helpDescription": "Pogledajte FAQ ili kontaktirajte podršku i pomoći ćemo vam da sve proradi.",
+        "faq": "FAQ",
+        "contactSupport": "Kontaktirajte podršku",
+        "copyright": "© 2026 Ultimate Telegram Media Downloader",
+        "privacy": "Pravila privatnosti",
+        "support": "Podrška",
+        "meta": "Saznajte kako koristiti Ultimate Telegram Media Downloader za preuzimanje fotografija, videozapisa, datoteka i još mnogo toga s Telegram Weba.",
+        "title": "Ultimate Telegram Media Downloader - Kako koristiti",
+        "steps": [
+            [
+                "Posjetite Telegram Web",
+                "Otvorite Telegram Web na web.telegram.org/k/ i prijavite se na svoj Telegram račun.",
+                "images/1.png",
+                "1. korak: Posjetite Telegram Web"
+            ],
+            [
+                "Prikvačite proširenje",
+                "Kliknite ikonu Proširenja u Chromeu, pronađite Ultimate Telegram Media Downloader i kliknite ikonu pribadače kako bi vam proširenje bilo lako dostupno.",
+                "images/2.png",
+                "2. korak: Prikvačite proširenje"
+            ],
+            [
+                "Otvorite kanal",
+                "Otvorite bilo koji privatni ili javni Telegram kanal koji sadrži medije koje želite preuzeti.",
+                "images/3.png",
+                "3. korak: Otvorite privatni ili javni kanal"
+            ],
+            [
+                "Otvorite downloader",
+                "Kliknite gumb Ultimate Telegram Downloader na alatnoj traci Telegram Weba kako biste otvorili downloader.",
+                "images/4.png",
+                "4. korak: Otvorite downloader"
+            ],
+            [
+                "Odaberite što želite skenirati",
+                "Na kartici Scanner kliknite padajući izbornik vrste medija kako biste odabrali što želite pronaći.",
+                "images/5.png",
+                "5. korak: Odaberite što želite preuzeti"
+            ],
+            [
+                "Odaberite vrstu medija",
+                "Odaberite opciju iz padajućeg izbornika. Mediji uključuju fotografije i videozapise, dok su Datoteke i Priče dostupne kao zasebne opcije.",
+                "images/6.png",
+                "6. korak: Odaberite vrstu medija"
+            ],
+            [
+                "Pokrenite skeniranje",
+                "Kliknite Scan for files kako biste započeli pronalaženje odabranih stavki u kanalu.",
+                "images/7.png",
+                "7. korak: Pokrenite skeniranje"
+            ],
+            [
+                "Pokrenite besplatnu probnu verziju",
+                "Prije preuzimanja morate se registrirati i pokrenuti besplatnu probnu verziju. Probna verzija prikazana ovdje omogućuje do 10 preuzimanja tijekom 1 dana.",
+                "images/8.png",
+                "8. korak: Pokrenite besplatnu probnu verziju"
+            ],
+            [
+                "Otvorite pristup računu",
+                "Kliknite ikonu korisnika na vrhu downloadera kako biste otvorili zaslon za pristup računu.",
+                "images/9.png",
+                "9. korak: Kliknite ikonu korisnika"
+            ],
+            [
+                "Kliknite Start free trial",
+                "Na zaslonu Account access kliknite Start free trial kako biste započeli registraciju.",
+                "images/10.png",
+                "10. korak: Pokrenite besplatnu probnu verziju"
+            ],
+            [
+                "Unesite svoju e-mail adresu",
+                "Unesite e-mail adresu kojoj imate pristup, a zatim kliknite Start trial.",
+                "images/11.png",
+                "11. korak: Unesite e-mail i pokrenite probnu verziju"
+            ],
+            [
+                "Provjerite ulaznu poštu",
+                "Na e-mail adresu koju ste unijeli bit će poslana poruka za potvrdu. Otvorite ulaznu poštu i pronađite je.",
+                "images/12.png",
+                "12. korak: Provjerite svoju e-mail poštu"
+            ],
+            [
+                "Otvorite e-mail za potvrdu",
+                "Pronađite e-mail za potvrdu probne verzije od pošiljatelja Extension Trial i otvorite ga.",
+                "images/13.png",
+                "13. korak: Otvorite e-mail za potvrdu"
+            ],
+            [
+                "Potvrdite svoju e-mail adresu",
+                "Kliknite gumb Confirm email u poruci kako biste aktivirali svoju besplatnu probnu verziju.",
+                "images/14.png",
+                "14. korak: Potvrdite svoju e-mail adresu"
+            ],
+            [
+                "Probna verzija je potvrđena",
+                "Kada stranica za potvrdu prikaže da je vaša besplatna probna verzija aktivna, možete nastaviti.",
+                "images/15.png",
+                "15. korak: Besplatna probna verzija potvrđena"
+            ],
+            [
+                "Vratite se u downloader",
+                "Vratite se na karticu Telegram Web. Vaš račun je sada kreiran, a probna verzija je aktivna.",
+                "images/16.png",
+                "16. korak: Vratite se na Telegram Web"
+            ],
+            [
+                "Odaberite datoteke i preuzmite ih",
+                "Odaberite datoteke koje želite spremiti, a zatim kliknite gumb Download kako biste započeli njihovo preuzimanje.",
+                "images/17.png",
+                "17. korak: Odaberite datoteke i pokrenite preuzimanje"
+            ]
+        ],
+        "features": [
+            [
+                "⚡",
+                "Grupno preuzimanje",
+                "Preuzmite više medijskih datoteka s Telegrama odjednom."
+            ],
+            [
+                "⏸️",
+                "Pauziranje i nastavak",
+                "Pauzirajte aktivna preuzimanja i nastavite ih kasnije."
+            ],
+            [
+                "📁",
+                "Organizacija po mjesecima",
+                "Organizirajte preuzete medije u mape prema mjesecima."
+            ],
+            [
+                "🎥",
+                "Više vrsta medija",
+                "Preuzimajte videozapise, fotografije, datoteke, audiozapise i glasovne poruke."
+            ],
+            [
+                "📊",
+                "Praćenje napretka",
+                "Pratite napredak svojih preuzimanja dok se odvijaju."
+            ],
+            [
+                "🔄",
+                "Ponovni pokušaj neuspjelih preuzimanja",
+                "Brzo ponovno pokrenite pojedinačna preuzimanja kod kojih je došlo do pogreške."
+            ]
+        ]
+    }
+}

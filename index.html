@@ -5,44 +5,88 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Learn how to use Ultimate Telegram Media Downloader to download photos, videos, files and voice messages from Telegram Web."
+      id="meta-description"
+      content="Learn how to use Ultimate Telegram Media Downloader to download photos, videos, files and more from Telegram Web."
     />
-    <title>Ultimate Telegram Media Downloader - How to Use</title>
+    <meta name="theme-color" content="#229ed9" />
+    <title id="page-title">
+      Ultimate Telegram Media Downloader - How to Use
+    </title>
     <link rel="stylesheet" href="style.css" />
+    <link rel="icon" type="image/png" href="images/favicon.ico" />
   </head>
 
   <body>
     <header class="site-header">
       <div class="container nav">
-        <a href="#" class="brand">
-          <span class="brand-icon">⬇</span>
-          <span>Ultimate Telegram Downloader</span>
+        <a
+          href="?lang=en"
+          class="brand"
+          aria-label="Ultimate Telegram Downloader"
+        >
+          <img
+            width="34"
+            height="34"
+            alt="ultimate telegram downloader icon"
+            src="images/icon.png"
+          />
+          <span class="brand-name"
+            >Ultimate <br />
+            Telegram Downloader</span
+          >
         </a>
 
-        <a
-          class="nav-button"
-          href="https://chromewebstore.google.com/"
-          target="_blank"
-          rel="noopener"
-        >
-          Install Extension
-        </a>
+        <div class="nav-actions">
+          <label class="language-picker">
+            <span class="sr-only" data-i18n="languageLabel">Language</span>
+            <select id="language-select" aria-label="Language">
+              <option value="en">English</option>
+              <option value="fr">Français</option>
+              <option value="es">Español</option>
+              <option value="de">Deutsch</option>
+              <option value="th">ไทย</option>
+              <option value="ms">Bahasa Melayu</option>
+              <option value="ar">العربية</option>
+              <option value="he">עברית</option>
+              <option value="cs">Čeština</option>
+              <option value="hr">Hrvatski</option>
+            </select>
+          </label>
+          <a
+            class="nav-button"
+            href="https://chromewebstore.google.com/detail/kemekpnmlfpofdgfalpjndmdgpjogjgl?utm_source=item-share-cb"
+            target="_blank"
+            rel="noopener"
+            data-i18n="installExtension"
+            >Install Extension</a
+          >
+        </div>
       </div>
     </header>
 
     <main>
       <section class="hero">
         <div class="container hero-content">
-          <div class="badge">🚀 Quick Start Guide</div>
-          <h1>Download Telegram media with ease.</h1>
-          <p>
-            Learn how to use Ultimate Telegram Media Downloader to download
-            photos, videos, files, voice messages and more from Telegram Web.
+          <div class="badge" data-i18n="badge">🚀 Quick Start Guide</div>
+          <h1 data-i18n="heroTitle">
+            Download Private/Public Telegram media with ease.
+          </h1>
+          <p data-i18n="heroDescription">
+            Follow these simple steps to use Ultimate Telegram Media Downloader
+            to download photos, videos, files, voice messages and more from
+            Private and Public Telegram groups and channels on Web K.
           </p>
 
           <div class="hero-actions">
-            <a class="primary-button" href="#steps">Get Started</a>
-            <a class="secondary-button" href="#features">Explore Features</a>
+            <a class="primary-button" href="#steps" data-i18n="getStarted"
+              >Get Started</a
+            >
+            <a
+              class="secondary-button"
+              href="#features"
+              data-i18n="exploreFeatures"
+              >Explore Features</a
+            >
           </div>
         </div>
       </section>
@@ -50,188 +94,27 @@
       <section id="steps" class="steps-section">
         <div class="container">
           <div class="section-heading">
-            <span class="eyebrow">HOW IT WORKS</span>
-            <h2>Get started in a few simple steps</h2>
-            <p>
-              Follow the guide below to start downloading media from Telegram
-              Web.
+            <span class="eyebrow" data-i18n="howItWorks">HOW IT WORKS</span>
+            <h2 data-i18n="stepsTitle">Get started in a few simple steps</h2>
+            <p data-i18n="stepsDescription">
+              Follow the numbered instructions and the markings in each
+              screenshot.
             </p>
           </div>
 
-          <!-- STEP 1 -->
-          <article class="step">
-            <div class="step-number">01</div>
-            <div class="step-content">
-              <div class="step-copy">
-                <span class="step-label">First step</span>
-                <h3>Pin the extension</h3>
-                <p>
-                  Click the Extensions icon in Chrome, find
-                  <strong>Ultimate Telegram Media Downloader</strong>, and click
-                  the pin icon so the extension is always easy to access.
-                </p>
-              </div>
-
-              <div class="media-placeholder">
-                <span>📸</span>
-                <strong>Add your screenshot here</strong>
-                <small>images/step-1-pin.png</small>
-              </div>
-            </div>
-          </article>
-
-          <!-- STEP 2 -->
-          <article class="step">
-            <div class="step-number">02</div>
-            <div class="step-content">
-              <div class="step-copy">
-                <span class="step-label">Open Telegram</span>
-                <h3>Open Telegram Web</h3>
-                <p>
-                  Open Telegram Web and go to the chat, group or channel
-                  containing the media you want to download.
-                </p>
-              </div>
-
-              <div class="media-placeholder">
-                <span>📸</span>
-                <strong>Add your screenshot here</strong>
-                <small>images/step-2-telegram.png</small>
-              </div>
-            </div>
-          </article>
-
-          <!-- STEP 3 -->
-          <article class="step">
-            <div class="step-number">03</div>
-            <div class="step-content">
-              <div class="step-copy">
-                <span class="step-label">Select media</span>
-                <h3>Select the files you want</h3>
-                <p>
-                  Select one or multiple photos, videos, documents, audio files
-                  or voice messages. Bulk selection makes it easy to download
-                  multiple items at once.
-                </p>
-              </div>
-
-              <div class="media-placeholder">
-                <span>🎬</span>
-                <strong>Add a screenshot or GIF here</strong>
-                <small>images/step-3-select.png</small>
-              </div>
-            </div>
-          </article>
-
-          <!-- STEP 4 -->
-          <article class="step">
-            <div class="step-number">04</div>
-            <div class="step-content">
-              <div class="step-copy">
-                <span class="step-label">Start downloading</span>
-                <h3>Start your download</h3>
-                <p>
-                  Open the downloader, review your selected media and click
-                  <strong>Download</strong> to begin.
-                </p>
-              </div>
-
-              <div class="media-placeholder">
-                <span>⬇️</span>
-                <strong>Add a screenshot or GIF here</strong>
-                <small>images/step-4-download.png</small>
-              </div>
-            </div>
-          </article>
-
-          <!-- STEP 5 -->
-          <article class="step">
-            <div class="step-number">05</div>
-            <div class="step-content">
-              <div class="step-copy">
-                <span class="step-label">Choose a folder</span>
-                <h3>Choose where to save your files</h3>
-                <p>
-                  Select the folder on your computer where you want your
-                  downloaded Telegram media to be saved.
-                </p>
-              </div>
-
-              <div class="media-placeholder">
-                <span>📁</span>
-                <strong>Add your screenshot here</strong>
-                <small>images/step-5-folder.png</small>
-              </div>
-            </div>
-          </article>
-
-          <!-- STEP 6 -->
-          <article class="step">
-            <div class="step-number">06</div>
-            <div class="step-content">
-              <div class="step-copy">
-                <span class="step-label">Manage downloads</span>
-                <h3>Track your downloads</h3>
-                <p>
-                  Watch your download progress in real time. You can pause,
-                  resume and retry downloads when needed.
-                </p>
-              </div>
-
-              <div class="media-placeholder">
-                <span>⚡</span>
-                <strong>Add a screenshot or GIF here</strong>
-                <small>images/step-6-progress.png</small>
-              </div>
-            </div>
-          </article>
+          <div id="steps-container"></div>
         </div>
       </section>
 
       <section id="features" class="features-section">
         <div class="container">
           <div class="section-heading">
-            <span class="eyebrow">FEATURES</span>
-            <h2>Everything you need to download Telegram media</h2>
+            <span class="eyebrow" data-i18n="featuresEyebrow">FEATURES</span>
+            <h2 data-i18n="featuresTitle">
+              Everything you need to download Telegram media
+            </h2>
           </div>
-
-          <div class="feature-grid">
-            <div class="feature-card">
-              <div class="feature-icon">⚡</div>
-              <h3>Bulk downloads</h3>
-              <p>Download multiple Telegram media files at once.</p>
-            </div>
-
-            <div class="feature-card">
-              <div class="feature-icon">⏸️</div>
-              <h3>Pause & resume</h3>
-              <p>Pause active downloads and continue them later.</p>
-            </div>
-
-            <div class="feature-card">
-              <div class="feature-icon">📁</div>
-              <h3>Organize by month</h3>
-              <p>Keep downloaded media organized in monthly folders.</p>
-            </div>
-
-            <div class="feature-card">
-              <div class="feature-icon">🎥</div>
-              <h3>Multiple media types</h3>
-              <p>Download videos, photos, files, audio and voice messages.</p>
-            </div>
-
-            <div class="feature-card">
-              <div class="feature-icon">📊</div>
-              <h3>Progress tracking</h3>
-              <p>See the progress of your downloads as they happen.</p>
-            </div>
-
-            <div class="feature-card">
-              <div class="feature-icon">🔄</div>
-              <h3>Retry failed downloads</h3>
-              <p>Quickly retry individual downloads that encounter an error.</p>
-            </div>
-          </div>
+          <div class="feature-grid" id="features-container"></div>
         </div>
       </section>
 
@@ -239,17 +122,24 @@
         <div class="container">
           <div class="help-card">
             <div>
-              <span class="eyebrow">NEED HELP?</span>
-              <h2>Something not working?</h2>
-              <p>
+              <span class="eyebrow" data-i18n="helpEyebrow">NEED HELP?</span>
+              <h2 data-i18n="helpTitle">Something not working?</h2>
+              <p data-i18n="helpDescription">
                 Check the FAQ or contact support and we'll help you get things
                 working.
               </p>
             </div>
-
             <div class="help-actions">
-              <a class="secondary-button" href="#">FAQ</a>
-              <a class="primary-button" href="mailto:support@example.com"
+              <a
+                class="secondary-button"
+                href="https://sites.google.com/view/ultimate-telegram-downloader/support"
+                data-i18n="faq"
+                >FAQ</a
+              >
+              <a
+                class="primary-button"
+                href="mailto:support@ultimatetelegramdownloader.com"
+                data-i18n="contactSupport"
                 >Contact Support</a
               >
             </div>
@@ -260,12 +150,149 @@
 
     <footer class="site-footer">
       <div class="container footer-content">
-        <span>© 2026 Ultimate Telegram Media Downloader</span>
+        <span data-i18n="copyright"
+          >© 2026 Ultimate Telegram Media Downloader</span
+        >
         <div>
-          <a href="#">Privacy Policy</a>
-          <a href="#">Support</a>
+          <a
+            href="https://sites.google.com/view/ultimate-telegram-downloader/privacy-policy"
+            data-i18n="privacy"
+            >Privacy Policy</a
+          >
+          <a
+            href="https://sites.google.com/view/ultimate-telegram-downloader/support"
+            data-i18n="support"
+            >Support</a
+          >
         </div>
       </div>
     </footer>
+
+    <script>
+      async function init() {
+        const translations = await fetch("./translations.json").then((res) => {
+          if (!res.ok) {
+            throw new Error(`Failed to load translations: ${res.status}`);
+          }
+          return res.json();
+        });
+
+        function buildSteps(t) {
+          const base = translations.en.steps;
+          const localized = t.steps || [];
+
+          return base.map((s, i) => {
+            const localizedStep = localized[i];
+
+            return {
+              title: localizedStep?.[0] || s[0],
+              description: localizedStep?.[1] || s[1],
+              image: s[2],
+              alt: localizedStep?.[3] || s[3],
+            };
+          });
+        }
+
+        function applyLanguage(lang) {
+          const t = translations[lang] || translations.en;
+
+          document.documentElement.lang = lang;
+          document.documentElement.dir =
+            lang === "ar" || lang === "he" ? "rtl" : "ltr";
+
+          document.title = t.title;
+
+          document
+            .getElementById("meta-description")
+            .setAttribute("content", t.meta);
+
+          document.querySelectorAll("[data-i18n]").forEach((el) => {
+            const key = el.dataset.i18n;
+
+            if (t[key] !== undefined) {
+              el.textContent = t[key];
+            }
+          });
+
+          const stepsContainer = document.getElementById("steps-container");
+
+          stepsContainer.innerHTML = buildSteps(t)
+            .map(
+              (s, i) => `
+            <article class="step">
+              <div class="step-number">${String(i + 1).padStart(2, "0")}</div>
+
+              <div class="step-content">
+                <div class="step-copy">
+                  <span class="step-label">
+                    ${lang === "fr" ? "Étape" : "Step"} ${i + 1}
+                  </span>
+
+                  <h3>${s.title}</h3>
+                  <p>${s.description}</p>
+                </div>
+
+                <figure class="step-media">
+                  <img
+                    class="step-image"
+                    src="${s.image}"
+                    alt="${s.alt}"
+                    loading="lazy"
+                  >
+                </figure>
+              </div>
+            </article>
+          `,
+            )
+            .join("");
+
+          document.getElementById("features-container").innerHTML = t.features
+            .map(
+              (f) => `
+            <div class="feature-card">
+              <div class="feature-icon">${f[0]}</div>
+              <h3>${f[1]}</h3>
+              <p>${f[2]}</p>
+            </div>
+          `,
+            )
+            .join("");
+
+          document.getElementById("language-select").value = lang;
+
+          localStorage.setItem("utd-language", lang);
+
+          const url = new URL(window.location.href);
+          url.searchParams.set("lang", lang);
+          window.history.replaceState({}, "", url);
+        }
+
+        const urlLang = new URLSearchParams(window.location.search).get("lang");
+
+        const storedLang = localStorage.getItem("utd-language");
+
+        const browserLang = (navigator.language || "en")
+          .toLowerCase()
+          .split("-")[0];
+
+        const initialLang = translations[urlLang]
+          ? urlLang
+          : translations[storedLang]
+            ? storedLang
+            : translations[browserLang]
+              ? browserLang
+              : "en";
+
+        document
+          .getElementById("language-select")
+          .addEventListener("change", (e) => {
+            applyLanguage(e.target.value);
+          });
+
+        applyLanguage(initialLang);
+      }
+
+      init();
+    </script>
   </body>
 </html>

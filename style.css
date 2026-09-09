@@ -10,8 +10,8 @@
   --text: #17191c;
   --muted: #68707c;
   --border: #e4e7eb;
-  --primary: #229ed9;
-  --primary-dark: #1687bd;
+  --primary: #226dd4;
+  --primary-dark: #1b5db8;
   --radius: 20px;
   --shadow: 0 12px 35px rgba(20, 28, 40, 0.08);
   --container: 1120px;
@@ -83,15 +83,8 @@ img {
   letter-spacing: -0.02em;
 }
 
-.brand-icon {
-  width: 34px;
-  height: 34px;
-  display: grid;
-  place-items: center;
-  border-radius: 10px;
-  background: var(--primary);
-  color: white;
-  font-size: 18px;
+.brand-name {
+  line-height: 110%;
 }
 
 .nav-button,
@@ -502,5 +495,74 @@ img {
   .footer-content div {
     flex-direction: column;
     gap: 6px;
+  }
+}
+
+/* Language selector and real screenshot cards */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.language-picker select {
+  min-height: 44px;
+  padding: 0 34px 0 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: white;
+  color: var(--text);
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.step-media {
+  margin: 0;
+}
+
+.step-image {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  background: var(--surface);
+}
+
+[dir="rtl"] .step-content,
+[dir="rtl"] .help-card,
+[dir="rtl"] .footer-content {
+  direction: rtl;
+}
+
+@media (max-width: 800px) {
+  .nav-actions {
+    gap: 6px;
+  }
+
+  .language-picker select {
+    max-width: 120px;
+    min-height: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+  .language-picker select {
+    max-width: 105px;
+    padding-left: 8px;
+    padding-right: 20px;
   }
 }
